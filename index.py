@@ -1,3 +1,3 @@
-from app import app as dash_app
+from dashboard import app as dash_app
 
 app = dash_app.server
